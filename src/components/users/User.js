@@ -3,7 +3,7 @@ import Spinner from "../layout/Spinner";
 import {Link} from "react-router-dom";
 import Repos from "../repos/Repos";
 
-import GitHubContext from "../../context/github/githubContext"
+import GitHubContext from "../../context/github/GithubContext"
 
 const User = (props) => {
 
